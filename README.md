@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there  👋 
+### I'm Shani, a full stack software engineer.
+### 📫 How to reach me: burdeshani@gmail.com
 
 <!--
 **shaniburde/shaniburde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
