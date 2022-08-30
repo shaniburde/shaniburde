@@ -1,7 +1,9 @@
 ### Hi there  👋 
-### I'm Shani, a full stack software engineer.
+### I'm Shani, a full stack software engineer
+### 🔭 I’m currently working as a Java Developer Apprentice @ Prodege, LLC
 ### 📫 How to reach me: burdeshani@gmail.com
-### ⚡ Fun facts: I love matcha lattes & feeding ducks at the park in the morning
+### 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/shani-burde-82171b200/
+### ⚡ Fun facts: I love chai lattes & feeding ducks at the park
 
 
 <!--
