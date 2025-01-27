@@ -1,6 +1,6 @@
 ### Hi there  👋 
 ### I'm Shani, a full stack software engineer
-### 🔭 I’m currently working as a Associate Java Developer @ Prodege, LLC
+### 🔭 I’m currently working as a Java Developer @ Prodege, LLC
 ### 📫 How to reach me: burdeshani@gmail.com
 ### 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/shani-burde-82171b200/
 ### ⚡ Fun facts: I love chai lattes, biking, and feeding ducks at the park
